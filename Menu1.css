@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: monospace;
+    font-weight: bold;
+}
+body {
+    display:flex ;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+    background-color: rgb(255, 230, 0);
+
+}
+h1 {
+    padding-top: 1.5rem;
+}
+footer{
+    align-items: center;
+    background-color: black;
+    padding: rem;
+    width: 100%;
+    color: aliceblue;
+}
